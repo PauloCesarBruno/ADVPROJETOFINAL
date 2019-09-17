@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace ADV_37_PROJETO_FINAL
 {
-    public partial class frmMDI : 
+    public partial class frmMDI : Form
     {
         // Travar O Form
         //=================================================== 
