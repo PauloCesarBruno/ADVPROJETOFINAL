@@ -26,7 +26,7 @@ namespace ADV_37_PROJETO_FINAL.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-CBCKVV5;Initial Catalog=ADV_vendaVarejo_11955;User ID=sa;Pass" +
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-EJP79KA;Initial Catalog=ADV_vendaVarejo_11955;User ID=sa;Pass" +
             "word=Paradoxo22")]
         public string ss {
             get {
